@@ -15,3 +15,10 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Transformação de variável categórica em algumas variáveis binárias;<br/>
 • Importância de separar uma parte do conjunto de dados para validação: nunca usar uma mesma partição para tomar duas decisões diferentes (treinar e testar; ou testar e validar);<br/>
 • A performance experada real do algoritmo é aquela atingida no conjunto de validação.
+
+## (3) Machine Learning: Lidando com dados de muitas dimensões
+
+• Formas de diminuir as dimensões: limpar dimensões nulas ou constantes, análise de dimensões correlatas e formas automatizadas do sklearn (KBest, RFE, RFECV);<br/>
+• Visualizações violinplot e heatmap do seaborn, usando dados das matrizes de correlação e confusão;<br/>
+• Redução de dimensionalidade com RFE, PCA e TSNE, sendo os dois últimos específicos para isso, e visualização dos dados em duas dimensões;<br/>
+• Utilização do RandomForestClassifier para todas as classificações do curso.
