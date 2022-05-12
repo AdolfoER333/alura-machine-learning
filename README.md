@@ -22,3 +22,10 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Visualizações violinplot e heatmap do seaborn, usando dados das matrizes de correlação e confusão;<br/>
 • Redução de dimensionalidade com RFE, PCA e TSNE, sendo os dois últimos específicos para isso, e visualização dos dados em duas dimensões;<br/>
 • Utilização do RandomForestClassifier para todas as classificações do curso.
+
+## (4) Clustering básico: k-means, DBSCAN e mean shift
+
+• Prática com agrupadores KMeans, DBSCAN e MeanShift, do módulo scikit.cluster;<br/>
+• Visualizações em duas dimensões (incluindo com redução de dimensionalidade) dos clusters formados com a biblioteca plotly;<br/>
+• Cálculo do coeficiente de silhueta médio como métrica de comparação entre os algoritmos;<br/>
+• Contato inicial com dados não rotulados.
