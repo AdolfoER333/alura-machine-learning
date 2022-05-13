@@ -29,3 +29,10 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Visualizações em duas dimensões (incluindo com redução de dimensionalidade) dos clusters formados com a biblioteca plotly;<br/>
 • Cálculo do coeficiente de silhueta médio como métrica de comparação entre os algoritmos;<br/>
 • Contato inicial com dados não rotulados.
+
+## (5) Clustering extraindo padrões de dados
+
+• Métricas para validação de clusters: coeficiente de silhueta e índices davies-bouldin e calinski-harabasz, além da base matemática por trás deles;<br/>
+• Diferença entre dados rotulados e não-rotulados e dificuldades associadas à falta de rótulos;<br/>
+• Comparações entre métricas para classificação dos clusters;<br/>
+• Seleção de variáveis mais influentes na formação dos clusters e análise dos agrupamentos com base nos valores selecionados.
