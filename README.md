@@ -36,3 +36,10 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Diferença entre dados rotulados e não-rotulados e dificuldades associadas à falta de rótulos;<br/>
 • Comparações entre métricas para classificação dos clusters;<br/>
 • Seleção de variáveis mais influentes na formação dos clusters e análise dos agrupamentos com base nos valores selecionados.
+
+## (6) Machine Learning: Validação de modelos
+
+• Ideia mais próxima da real quanto à performance esperada de um modelo, incluindo o intervalo de confiança;<br/>
+• O que é validação cruzada e quais as vantagens em relação ao holdout e implementação por meio do cross_validation, ;<br/>
+• KFold, StratifiedKFold e GroupKFold como formas de embaralhar ou garantir a organização do conjunto de dados para a validação cruzada;<br/>
+• Necessidade da pipeline pela execução de processos sequenciados.
