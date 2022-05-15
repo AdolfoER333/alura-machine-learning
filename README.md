@@ -50,3 +50,10 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Observação clara e intuitiva de como ocorre o overfitting usando o parâmetro de profundidade máxima da árvore de decisão;<br/>
 • GridSearchCV para otimização dos hiperparâmetros definidos dentro de um modelo;<br/>
 • A necessidade da técnica de nested cross validation quando trata-se da escolha de um modelo (avaliação de performance) aliada ao refino de hiperparâmetros.
+
+## (8) Machine Learning parte 2: otimização com exploração aleatória
+
+• Assim como combinar GridSearchCV e validação cruzada, aqui foram combinadas a exploração aleatória e validação cruzada;<br/>
+• Diferenças de resultados entre exploração exaustiva e a aleatória: runtime e modelo do output;<br/>
+• Diferenças conceituais: garantia do GridSearch e abrangência do RandomizedSearch;<br/>
+• Opção alternativa à validação cruzada: um terceiro conjunto de dados separado para validação.
