@@ -1,6 +1,6 @@
 # Formação Machine Learning
 
-Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela Alura. Abaixo, uma descrição breve dos conteúdos abordados em cada curso.
+Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela Alura. Abaixo, uma descrição breve dos conteúdos abordados em cada curso já na ordem da formação.
 
 ## (1) Machine Learning: Introdução à classificação com SKLearn
 
@@ -30,7 +30,7 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Cálculo do coeficiente de silhueta médio como métrica de comparação entre os algoritmos;<br/>
 • Contato inicial com dados não rotulados.
 
-## (5) Clustering extraindo padrões de dados
+## (5) Clustering: extraindo padrões de dados
 
 • Métricas para validação de clusters: coeficiente de silhueta e índices davies-bouldin e calinski-harabasz, além da base matemática por trás deles;<br/>
 • Diferença entre dados rotulados e não-rotulados e dificuldades associadas à falta de rótulos;<br/>
@@ -40,6 +40,13 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 ## (6) Machine Learning: Validação de modelos
 
 • Ideia mais próxima da real quanto à performance esperada de um modelo, incluindo o intervalo de confiança;<br/>
-• O que é validação cruzada e quais as vantagens em relação ao holdout e implementação por meio do cross_validation, ;<br/>
+• O que é validação cruzada e quais as vantagens em relação ao holdout e implementação por meio do cross_validation;<br/>
 • KFold, StratifiedKFold e GroupKFold como formas de embaralhar ou garantir a organização do conjunto de dados para a validação cruzada;<br/>
 • Necessidade da pipeline pela execução de processos sequenciados.
+
+## (7) Machine Learning parte 1: otimização de modelos através de hiperparâmetros
+
+• O que são hiperparâmetros e como mudam o modelo, no caso, exemplificado com o DecisionTreeClassifier;<br/>
+• Observação clara e intuitiva de como ocorre o overfitting usando o parâmetro de profundidade máxima da árvore de decisão;<br/>
+• GridSearchCV para otimização dos hiperparâmetros definidos dentro de um modelo;<br/>
+• A necessidade da técnica de nested cross validation quando trata-se da escolha de um modelo (avaliação de performance) aliada ao refino de hiperparâmetros.
