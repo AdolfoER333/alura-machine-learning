@@ -57,3 +57,10 @@ Visível em https://www.alura.com.br/formacao-machine-learning e agrupada pela A
 • Diferenças de resultados entre exploração exaustiva e a aleatória: runtime e modelo do output;<br/>
 • Diferenças conceituais: garantia do GridSearch e abrangência do RandomizedSearch;<br/>
 • Opção alternativa à validação cruzada: um terceiro conjunto de dados separado para validação.
+
+## (Extra) Árvores de Decisão: aprofundando em modelos de Machine Learning
+
+• Como funciona o modelo de árvore de decisão, explicando por meio do critério Gini;<br/>
+• Métricas diferentes para avaliação da performance de um modelo e seus significados e definições, como acurácia, precisão e recall;<br/>
+• Qual o intuito e como funcionam os modelos do tipo ensemble agregadores e adaptativos;<br/>
+. Aplicação dos modelos DecisionTreeClassifier, RegressionTreeClassifier e AdaBoostClassifier em um dataset de classificação de fraudes.
